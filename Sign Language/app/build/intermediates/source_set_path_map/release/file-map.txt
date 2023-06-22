@@ -1,0 +1,52 @@
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-2.5.1-0 C:\Users\ASUS\.gradle\caches\transforms-3\09fc879eedf63e2e6991f23401a7d7ee\transformed\navigation-runtime-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-2.5.1-1 C:\Users\ASUS\.gradle\caches\transforms-3\0eb95fef4583907173864f24ea3b57b1\transformed\lifecycle-viewmodel-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-livedata-core-2.5.1-2 C:\Users\ASUS\.gradle\caches\transforms-3\13c2ed21da35ce23af202ca67a3e6616\transformed\lifecycle-livedata-core-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-livedata-core-ktx-2.5.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\1e3b04aabfbea3b6da4d71a00d18d558\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-cardview-1.0.0-4 C:\Users\ASUS\.gradle\caches\transforms-3\2430f05d3f293bea2fc68b4cb5eb93b9\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-material-1.6.1-5 C:\Users\ASUS\.gradle\caches\transforms-3\2f0de5aef150b35dbf69394c1fcc51b6\transformed\material-1.6.1\res
+org.tensorflow.lite.examples.imageclassification.app-coordinatorlayout-1.1.0-6 C:\Users\ASUS\.gradle\caches\transforms-3\32148c6f142b7fd4f813bf64157dc73d\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-annotation-experimental-1.1.0-7 C:\Users\ASUS\.gradle\caches\transforms-3\34c07b80847686a78224d3ec60a10a59\transformed\annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-1.5.1-8 C:\Users\ASUS\.gradle\caches\transforms-3\430e3dabd3a84d2a36f0b869eaf65b98\transformed\fragment-1.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-slidingpanelayout-1.2.0-9 C:\Users\ASUS\.gradle\caches\transforms-3\46aa8a30b5c8fd06597310e317236702\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-savedstate-2.5.1-10 C:\Users\ASUS\.gradle\caches\transforms-3\47fee905293c2ba7605f19511f87fa51\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-1.2.0-11 C:\Users\ASUS\.gradle\caches\transforms-3\48e73ca81ab52a6e7966740be863531c\transformed\savedstate-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-lifecycle-1.2.0-alpha04-12 C:\Users\ASUS\.gradle\caches\transforms-3\4b6dd299154901d82b29f3c8ba24edd3\transformed\camera-lifecycle-1.2.0-alpha04\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-ktx-2.5.1-13 C:\Users\ASUS\.gradle\caches\transforms-3\4bdfcb9f12da740bb54e77700d43faf5\transformed\navigation-common-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-activity-ktx-1.5.1-14 C:\Users\ASUS\.gradle\caches\transforms-3\4e53780b5840dd69ec9b0eff3c6b1b3e\transformed\activity-ktx-1.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-ktx-2.5.1-15 C:\Users\ASUS\.gradle\caches\transforms-3\55520ee2a5fe08456e1ad8e4bb36c73c\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-camera-view-1.2.0-alpha04-16 C:\Users\ASUS\.gradle\caches\transforms-3\555beca78d157bf6c6a47524eaea339a\transformed\camera-view-1.2.0-alpha04\res
+org.tensorflow.lite.examples.imageclassification.app-transition-1.4.1-17 C:\Users\ASUS\.gradle\caches\transforms-3\5db43cb3f65d0df3d5e9c4fc4df646a5\transformed\transition-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-lottie-6.0.0-18 C:\Users\ASUS\.gradle\caches\transforms-3\5f2afeadba8cf271edc077f1533bbdd4\transformed\lottie-6.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-startup-runtime-1.0.0-19 C:\Users\ASUS\.gradle\caches\transforms-3\67fd6f800e4cd69e41142823e60d7037\transformed\startup-runtime-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-ktx-2.5.1-20 C:\Users\ASUS\.gradle\caches\transforms-3\708debada84ad22bf63197c45bd26270\transformed\navigation-ui-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-views-helper-1.0.0-21 C:\Users\ASUS\.gradle\caches\transforms-3\70fefaf70831840abd5fe6001c132074\transformed\emoji2-views-helper-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-window-1.0.0-22 C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-resources-1.4.2-23 C:\Users\ASUS\.gradle\caches\transforms-3\792494ddb0ef9e7304c806fa471051af\transformed\appcompat-resources-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-ktx-2.5.1-24 C:\Users\ASUS\.gradle\caches\transforms-3\7ed05ae02511072469ef8b5e67a7cef9\transformed\navigation-fragment-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-2.5.1-25 C:\Users\ASUS\.gradle\caches\transforms-3\875785ff1c6320a62f6981169a7ecb13\transformed\navigation-ui-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-activity-1.5.1-26 C:\Users\ASUS\.gradle\caches\transforms-3\894925e14a4ff67442e876d8525447ef\transformed\activity-1.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-ktx-1.5.1-27 C:\Users\ASUS\.gradle\caches\transforms-3\8a69bebf2109b881857b5aa6466c078b\transformed\fragment-ktx-1.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-camera-camera2-1.2.0-alpha04-28 C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-2.5.1-29 C:\Users\ASUS\.gradle\caches\transforms-3\9c4cae3df7a33cf2468b806414bb920e\transformed\navigation-common-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-ktx-2.5.1-30 C:\Users\ASUS\.gradle\caches\transforms-3\acfad3d991965f372d7dbc6d746b3062\transformed\lifecycle-runtime-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-viewpager2-1.0.0-31 C:\Users\ASUS\.gradle\caches\transforms-3\bbf3ed8e397bd0fa545197a052b62528\transformed\viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-2.5.1-32 C:\Users\ASUS\.gradle\caches\transforms-3\c3d08c0979b807337ba72c6d717877f5\transformed\navigation-fragment-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-camera-core-1.2.0-alpha04-33 C:\Users\ASUS\.gradle\caches\transforms-3\c73d7de30a5524c994597d91d799ebb8\transformed\camera-core-1.2.0-alpha04\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-2.5.1-34 C:\Users\ASUS\.gradle\caches\transforms-3\c792d5eb10ca4c973c4fd305395f71d9\transformed\lifecycle-runtime-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-1.4.2-35 C:\Users\ASUS\.gradle\caches\transforms-3\d45b691ec99b7bba2b6dc51bc12de244\transformed\appcompat-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-1.0.0-36 C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.8.0-37 C:\Users\ASUS\.gradle\caches\transforms-3\e26668fa95b087be2ab906e8e053662f\transformed\core-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-ktx-1.2.0-38 C:\Users\ASUS\.gradle\caches\transforms-3\e26fe997d55bc910db0618dd5e0dfc8e\transformed\savedstate-ktx-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-constraintlayout-2.1.4-39 C:\Users\ASUS\.gradle\caches\transforms-3\e348a14bc406a2e5da798841d455c51c\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-ktx-2.5.1-40 C:\Users\ASUS\.gradle\caches\transforms-3\e81c1d0aaa20fac5f986684fa6afde59\transformed\navigation-runtime-ktx-2.5.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-process-2.4.0-41 C:\Users\ASUS\.gradle\caches\transforms-3\f45c6a17e1d2e30d06a05567f9acff43\transformed\lifecycle-process-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-drawerlayout-1.1.1-42 C:\Users\ASUS\.gradle\caches\transforms-3\f624b157eec1fe19ac2443807cb57926\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-recyclerview-1.1.0-43 C:\Users\ASUS\.gradle\caches\transforms-3\f70c11bb5c610376dcbfff5627db0506\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-pngs-44 C:\Users\ASUS\Desktop\Sign Language\app\build\generated\res\pngs\release
+org.tensorflow.lite.examples.imageclassification.app-resValues-45 C:\Users\ASUS\Desktop\Sign Language\app\build\generated\res\resValues\release
+org.tensorflow.lite.examples.imageclassification.app-rs-46 C:\Users\ASUS\Desktop\Sign Language\app\build\generated\res\rs\release
+org.tensorflow.lite.examples.imageclassification.app-packageReleaseResources-47 C:\Users\ASUS\Desktop\Sign Language\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.app-packageReleaseResources-48 C:\Users\ASUS\Desktop\Sign Language\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.app-merged_res-49 C:\Users\ASUS\Desktop\Sign Language\app\build\intermediates\merged_res\release
+org.tensorflow.lite.examples.imageclassification.app-main-50 C:\Users\ASUS\Desktop\Sign Language\app\src\main\res
+org.tensorflow.lite.examples.imageclassification.app-release-51 C:\Users\ASUS\Desktop\Sign Language\app\src\release\res

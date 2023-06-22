@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="org.tensorflow.lite.examples.imageclassification"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml
+11    <!-- Enable instant app support -->
+12    <dist:module dist:instant="true" /> <!-- Declare features -->
+12-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:7:5-40
+12-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:7:18-37
+13    <uses-feature android:name="android.hardware.camera" /> <!-- Declare permissions -->
+13-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:8:5-60
+13-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:8:19-57
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:9:5-65
+14-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:9:22-62
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18
+19    <application
+19-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:11:5-46:19
+20        android:allowBackup="true"
+20-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:12:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.8.0] C:\Users\ASUS\.gradle\caches\transforms-3\e26668fa95b087be2ab906e8e053662f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher_new"
+24-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:13:9-47
+25        android:label="@string/app_name"
+25-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:14:9-41
+26        android:roundIcon="@mipmap/ic_launcher_new_round"
+26-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:15:9-58
+27        android:supportsRtl="true"
+27-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:16:9-35
+28        android:taskAffinity=""
+28-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:17:9-32
+29        android:testOnly="true" >
+30        <activity
+30-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:20:9-28:44
+31            android:name="org.tensorflow.lite.examples.imageclassification.MainActivity"
+31-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:21:13-41
+32            android:clearTaskOnLaunch="true"
+32-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:22:13-45
+33            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+33-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:23:13-91
+34            android:exported="true"
+34-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:24:13-36
+35            android:resizeableActivity="true"
+35-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:25:13-46
+36            android:rotationAnimation="seamless"
+36-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:26:13-49
+37            android:theme="@style/AppTheme" />
+37-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:27:13-44
+38        <activity
+38-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:30:9-45:20
+39            android:name="org.tensorflow.lite.examples.imageclassification.SplashScreen"
+39-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:31:13-41
+40            android:exported="true"
+40-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:32:13-36
+41            android:theme="@style/SplashScreen" >
+41-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:33:13-48
+42            <intent-filter>
+42-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:35:13-39:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:36:17-69
+43-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:36:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:38:17-77
+45-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:38:27-74
+46            </intent-filter>
+47
+48            <!-- Declare notch support -->
+49            <meta-data
+49-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:42:13-44:40
+50                android:name="android.notch_support"
+50-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:43:17-53
+51                android:value="true" />
+51-->C:\Users\ASUS\Desktop\Sign Language\app\src\main\AndroidManifest.xml:44:17-37
+52        </activity>
+53
+54        <uses-library
+54-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+55            android:name="androidx.window.extensions"
+55-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+56            android:required="false" />
+56-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+57        <uses-library
+57-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+58            android:name="androidx.window.sidecar"
+58-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+59            android:required="false" />
+59-->[androidx.window:window:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\78948342c0c08c7b62f3b48bbc8d4725\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+60
+61        <service
+61-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:24:9-33:19
+62            android:name="androidx.camera.core.impl.MetadataHolderService"
+62-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:25:13-75
+63            android:enabled="false"
+63-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:26:13-36
+64            android:exported="false" >
+64-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:30:13-32:89
+66                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+66-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:31:17-103
+67                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+67-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9092064e6b0353fadb8cf0c5decb15d1\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:32:17-86
+68        </service>
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+72            android:authorities="org.tensorflow.lite.examples.imageclassification.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\df4da2e18d820ecc5cf6e31f824547b3\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\f45c6a17e1d2e30d06a05567f9acff43\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\f45c6a17e1d2e30d06a05567f9acff43\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\f45c6a17e1d2e30d06a05567f9acff43\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+80        </provider>
+81    </application>
+82
+83</manifest>

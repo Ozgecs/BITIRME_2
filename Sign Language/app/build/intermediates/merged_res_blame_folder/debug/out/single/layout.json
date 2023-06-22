@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-main-51:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:\\layout\\item_classification_result.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-main-51:\\layout\\item_classification_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-main-51:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.6.1\\org.tensorflow.lite.examples.imageclassification.app-main-51:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-51:/layout/activity_main.xml"
+    }
+]
